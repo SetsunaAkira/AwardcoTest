@@ -7,8 +7,8 @@ I installed Node.js version 14.17.6
 -then npx open Cypress to open the application
 
 I used Visual Studio Code to both create the test Suite and look at the example tests
--I added my own test folder in the Integrations folder right next to the example tests
--I named my test awardcotest.spec.js
+I added my own test folder in the Integrations folder right next to the example tests
+I named my test awardcotest.spec.js
 
 I started Roughly at noon when i opened the link
 it took me about 20 minutes to setup and install the things into my project folder
