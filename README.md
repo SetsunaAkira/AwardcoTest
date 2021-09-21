@@ -13,3 +13,5 @@ I started exploring the example test to understand how Cypress does things along
 I then started my own exploratory testing against Award.co to understand what I can and cannot do with Cypress.
 I would say I started formulating and coding my tests at around 1:30 PM.
 I finished writing 3 test at around 3:30 PM.
+
+Im gonna be honest here, if that was the live environment for the website, the HTML Structure needs alot of work, I spend a good bit of time in the coding part just trying to find a way to select the correct element because there aren't unique identifiers for elements, the class names are completely identical to others, and theres no other element that allowed me to find a easy to to know i selected the right element. in the Products tab why is it that every single image was labeled as "Logo-Black" or "Logo-White" and there was no other unique identifier for those logos aside from the alt except for the Even product which for some reason wasnt the same as any of the other logos.
